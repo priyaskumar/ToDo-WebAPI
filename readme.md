@@ -1,7 +1,7 @@
 ToDo-Flask-Application
 ==
 
-- This is a basic back-end RESTful API (ToDo web application) built with Python using Flask (a web framework).
+- This is a back-end RESTful API (ToDo WebAPI) built with Python using Flask (a web framework).
 
 - This implements CRUD operations
 
